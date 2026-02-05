@@ -16,8 +16,19 @@ import {
 export default function EnPage() {
   return (
     <main>
-      <section className="relative overflow-hidden bg-gradient-to-b from-emerald-900 via-emerald-800 to-emerald-950">
-        <div className="container py-16 text-center">
+      <section className="relative overflow-hidden">
+        {/* Kuwait City Background Image */}
+        <div className="absolute inset-0">
+          <Image
+            src="/images/kuwait-city.jpg"
+            alt="Kuwait City Skyline"
+            fill
+            className="object-cover"
+            priority
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-emerald-900/85 via-emerald-800/80 to-emerald-950/90" />
+        </div>
+        <div className="container relative z-10 py-16 text-center">
           <div className="mx-auto mb-4 flex items-center justify-center">
             <Image
               src="/images/logo.png"
