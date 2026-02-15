@@ -31,13 +31,13 @@
               (0, a.jsx)("div", {
                 className: "mb-8",
                 children: (0, a.jsx)("a", {
-                  href: "mailto:info@almaaref.org",
+                  href: "mailto:info@almaaref-kw.com",
                   children: (0, a.jsxs)(r.$, {
                     className: "gap-2",
                     variant: "default",
                     children: [
                       (0, a.jsx)(i.A, { className: "h-4 w-4" }),
-                      " info@almaaref.org",
+                      " info@almaaref-kw.com",
                     ],
                   }),
                 }),

@@ -25,9 +25,9 @@ export default function Contact() {
           الإلكتروني.
         </p>
         <div className="mb-8">
-          <a href="mailto:info@almaaref.org">
+          <a href="mailto:info@almaaref-kw.com">
             <Button className="gap-2" variant="default">
-              <Mail className="h-4 w-4" /> info@almaaref.org
+              <Mail className="h-4 w-4" /> info@almaaref-kw.com
             </Button>
           </a>
         </div>

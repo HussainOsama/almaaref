@@ -221,13 +221,13 @@
                 (0, d.jsx)("div", {
                   className: "mb-8",
                   children: (0, d.jsx)("a", {
-                    href: "mailto:info@almaaref.org",
+                    href: "mailto:info@almaaref-kw.com",
                     children: (0, d.jsxs)(f.$, {
                       className: "gap-2",
                       variant: "default",
                       children: [
                         (0, d.jsx)(g, { className: "h-4 w-4" }),
-                        " info@almaaref.org",
+                        " info@almaaref-kw.com",
                       ],
                     }),
                   }),

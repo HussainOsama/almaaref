@@ -131,8 +131,8 @@ export default function EnPage() {
             via email.
           </p>
           <div className="mb-8">
-            <a href="mailto:info@almaaref.org">
-              <Button className="gap-2">info@almaaref.org</Button>
+            <a href="mailto:info@almaaref-kw.com">
+              <Button className="gap-2">info@almaaref-kw.com</Button>
             </a>
           </div>
         </div>
