@@ -193,7 +193,7 @@
                 (0, a.jsx)("p", {
                   className: "mx-auto max-w-3xl text-lg leading-relaxed",
                   children:
-                    "شركة المعارف الثقافية لتنظيم الرحلت السياحية والرشاد السياحي الداخلي",
+                    "          شركة المعارف الثقافية لتنظيم الرحلات السياحية والرشاد السياحي الداخلي",
                 }),
                 (0, a.jsxs)("div", {
                   className: "mt-8 flex items-center justify-center gap-4",

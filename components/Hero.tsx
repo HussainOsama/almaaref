@@ -34,8 +34,7 @@ export default function Hero() {
         </div>
         <h1 className="mb-4 text-4xl font-bold md:text-5xl">مؤسسة المعارف</h1>
         <p className="mx-auto max-w-3xl text-lg leading-relaxed">
-          مؤسسة تربوية وثقافية تهتم ببناء الفرد معرفيًا وروحيًا من خلال برامج
-          تعليمية وثقافية وأنشطة ترفيهية.
+          شركة المعارف الثقافية لتنظيم الرحلات السياحية والرشاد السياحي الداخلي
         </p>
         <div className="mt-8 flex items-center justify-center gap-4">
           <Button onClick={scrollToTrips} className="gap-2" variant="default">
