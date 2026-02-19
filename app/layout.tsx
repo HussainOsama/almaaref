@@ -27,6 +27,9 @@ export const metadata: Metadata = {
   icons: {
     icon: "/images/logo.png",
   },
+  other: {
+    "facebook-domain-verification": "yy30b2l3zoyrwuvdslxefw6uyxa8h6",
+  },
 };
 
 export default function RootLayout({
